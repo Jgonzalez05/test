@@ -16,9 +16,11 @@ public class testeo
     public testeo()
     {
         // initialise instance variables
-        x = 0;
+        x = 10;
     }
 
+    
+    
     /**
      * An example of a method - replace this comment with your own
      * 
